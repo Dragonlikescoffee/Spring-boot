@@ -1,0 +1,5 @@
+id,first_name,gpa,email,gender,courseNo,grade,creditHours
+1,Caleb,3.6,jdtg0@aws.com,Female
+2,Aida,3.1,adattt@test.gov,Female,CS & CS12, B & A,8
+3,Alex,3.4,Adavis@bccs.com,Male,BS & Hist, B & A, 6
+4,Meba,3.2,mtravis@yahoo.com,Male,ENG & CS12, A & A,8
